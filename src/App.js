@@ -7,8 +7,7 @@ import MiOrg from './componentes/MiOrg';
 import Equipo from './componentes/Equipo';
 import Footer from './componentes/Footer';
 
-
-console.log("Mateo")
+// comentario ejemplo
 
 function App() {
   const [mostrarFormulario, actualizarMostrar] = useState(false)
