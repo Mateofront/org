@@ -28,6 +28,14 @@ function App() {
   },
   {
     id: uuid(),
+    equipo: "Front End",
+    foto: "https://github.com/mateocorsi.png",
+    nombre: "Mateo Corsi",
+    puesto: "Desarrollador",
+    fav: false
+  },
+  {
+    id: uuid(),
     equipo: "UX y Diseño",
     foto: "https://github.com/JeanmarieAluraLatam.png",
     nombre: "Jeanmarie Quijada",
